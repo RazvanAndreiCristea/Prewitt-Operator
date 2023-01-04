@@ -4,36 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ebfe1ea-dca2-4c17-8bc1-ba89aaf4d9ab" name="Changes" comment="java project">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prewitt-Operator.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/segmentul_1.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/segmentul_1_rezultat.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/segmentul_2.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/segmentul_2_rezultat.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/segmentul_3.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/segmentul_3_rezultat.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/segmentul_4.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/segmentul_4_rezultat.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/packTest/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/packTest/cutul.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/packTest/papagali.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/packTest/rezultat.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/packWork/Conector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/packWork/Consumator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/packWork/Executant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/packWork/Print.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/packWork/ProcesatorImagine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/packWork/Producator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/packWork/Timp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/packWork/TimpScurs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/packWork/TimpStart.java" afterDir="false" />
-    </list>
+    <list default="true" id="2ebfe1ea-dca2-4c17-8bc1-ba89aaf4d9ab" name="Changes" comment="java project" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -122,6 +93,21 @@
       <option name="presentableId" value="Default" />
       <updated>1672413934149</updated>
     </task>
+    <task id="LOCAL-00001" summary="java project">
+      <created>1672863012373</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1672863012373</updated>
+    </task>
+    <task id="LOCAL-00002" summary="java project">
+      <created>1672863207218</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1672863207218</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
