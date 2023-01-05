@@ -54,7 +54,6 @@ public class ProcesatorImagine
 
         return rezultat;
     }
-
     public static void aplicaOperatorulPrewitt(BufferedImage imagineOriginala, BufferedImage imagineaRezultata)
     {
         BufferedImage imagine = conversiaGray(imagineOriginala);

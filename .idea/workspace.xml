@@ -4,7 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ebfe1ea-dca2-4c17-8bc1-ba89aaf4d9ab" name="Changes" comment="java project" />
+    <list default="true" id="2ebfe1ea-dca2-4c17-8bc1-ba89aaf4d9ab" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentul_1.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/segmentul_1.bmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentul_1_rezultat.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/segmentul_1_rezultat.bmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentul_2.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/segmentul_2.bmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentul_2_rezultat.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/segmentul_2_rezultat.bmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentul_3.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/segmentul_3.bmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentul_3_rezultat.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/segmentul_3_rezultat.bmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentul_4.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/segmentul_4.bmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/segmentul_4_rezultat.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/segmentul_4_rezultat.bmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/packTest/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/packTest/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/packTest/rezultat.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/src/packTest/rezultat.bmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/packWork/ProcesatorImagine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/packWork/ProcesatorImagine.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,21 +44,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "E:/C/JAVA/Prewitt-Operator/src/packTest/papagali.bmp",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Code With Me"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/C/JAVA/Prewitt-Operator/src/packTest/papagali.bmp&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   },
-  "keyToStringList": {
-    "ChangesTree.GroupingKeys": [
-      "directory",
-      "module"
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;module&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\C\JAVA\Prewitt-Operator\src\packTest" />
@@ -107,7 +120,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672863207218</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="java project">
+      <created>1672863295900</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1672863295900</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -115,7 +135,39 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="HEAD" />
+                </option>
+              </RecentGroup>
+            </list>
           </value>
         </entry>
       </map>

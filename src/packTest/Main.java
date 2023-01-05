@@ -26,7 +26,8 @@ public class Main
 
         while(!(input.equals("1") || input.equals("2")))
         {
-            System.out.println("optiunea introdusa de tine este invalida!");
+            clearConsole();
+            System.out.println("Optiunea introdusa de tine este invalida!");
             input = alegeOptiune(scaner);
         }
 
@@ -107,10 +108,15 @@ public class Main
     private static String alegeOptiune(Scanner scaner)
     {
         System.out.println("Optiunile disponibile pentru aceasta aplicatie sunt: ");
-        System.out.println("1 -> Caine");
-        System.out.println("2 -> Papagali");
+        System.out.println("Tasta 1 -> Pentru a aplica algoritmul pozei unui caine");
+        System.out.println("Tasta 2 -> Pentru a aplica algoritmul pozei unor papagali");
         System.out.println("Introdu cifra corespunzatoare imaginii careia vrei sa ii aplici operatorul Prewitt: ");
 
        return scaner.nextLine();
+    }
+    private static void clearConsole()
+    {
+        for (int j = 0; j < 100; j++)
+            System.out.println();
     }
 }
