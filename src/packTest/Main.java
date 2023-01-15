@@ -65,6 +65,8 @@ public class Main
 
         //se creaza cele 4 sectiuni ale imaginii sursa
 
+        timp.reseteazaTimpScurs();
+
         for (int nrSectiune = 0; nrSectiune < 4; nrSectiune++)
         {
             try

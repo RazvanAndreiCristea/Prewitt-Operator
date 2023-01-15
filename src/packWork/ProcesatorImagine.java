@@ -45,7 +45,7 @@ public class ProcesatorImagine
         return imagineRezultata;
     }
 
-    private static BufferedImage conversiaGray(BufferedImage imagine)
+    private static BufferedImage conversiaGray(BufferedImage imagine) //aici facem Grayscale
     {
         BufferedImage rezultat = new BufferedImage(imagine.getWidth(), imagine.getHeight(), BufferedImage.TYPE_BYTE_GRAY);
         Graphics g = rezultat.getGraphics();
@@ -78,3 +78,9 @@ public class ProcesatorImagine
         }
     }
 }
+
+/*Mai intai, este declarat un vector numit "pixeliImagine" care memoreaza valorile RGB ale fiecarui pixel din imagine.
+Apoi, se parcurge imaginea, pixel cu pixel, prin intermediul unui "for loop" imbricat. Pentru fiecare pixel, se calculeaza
+valorile gradientului in directiile x si y (gx si gy) folosind valorile RGB ale pixelilor din jurul sau.
+Apoi, se calculeaza suma absoluta a acestor valori de gradient si se seteaza aceasta valoare ca valoare RGB pentru pixelul curent
+in imaginea rezultat. Aceasta imagine rezultat ar trebui sa evidențieze marginile din imaginea originala.*/

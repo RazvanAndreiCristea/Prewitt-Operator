@@ -20,6 +20,10 @@ public class Timp extends TimpScurs implements Print
         this.timpulTotal = (int) (System.currentTimeMillis() - getTimpTotalStart());
     }
 
+    public void reseteazaTimpScurs()
+    {
+        getTimpScurs();
+    }
     @Override
     public void afiseazaTimpScursEtapa(String etapa)
     {

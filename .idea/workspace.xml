@@ -4,19 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ebfe1ea-dca2-4c17-8bc1-ba89aaf4d9ab" name="Changes" comment="">
+    <list default="true" id="2ebfe1ea-dca2-4c17-8bc1-ba89aaf4d9ab" name="Changes" comment="java project">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/segmentul_1.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/segmentul_1.bmp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/segmentul_1_rezultat.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/segmentul_1_rezultat.bmp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/segmentul_2.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/segmentul_2.bmp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/segmentul_2_rezultat.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/segmentul_2_rezultat.bmp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/segmentul_3.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/segmentul_3.bmp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/segmentul_3_rezultat.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/segmentul_3_rezultat.bmp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/segmentul_4.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/segmentul_4.bmp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/segmentul_4_rezultat.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/segmentul_4_rezultat.bmp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/packTest/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/packTest/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/packTest/rezultat.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/src/packTest/rezultat.bmp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/packWork/ProcesatorImagine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/packWork/ProcesatorImagine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/packWork/Timp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/packWork/Timp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +26,19 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="1e6e4d12-e1c0-4817-a036-c9ee888207cf" />
+        <option name="url" value="https://github.com/RazvanAndreiCristea/Prewitt-Operator.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -127,7 +132,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672863295900</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="java project">
+      <created>1672915959843</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1672915959843</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
