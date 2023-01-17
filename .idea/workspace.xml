@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ebfe1ea-dca2-4c17-8bc1-ba89aaf4d9ab" name="Changes" comment="java project">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/segmentul_1.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/segmentul_1.bmp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/segmentul_1_rezultat.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/segmentul_1_rezultat.bmp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/segmentul_2.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/segmentul_2.bmp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/segmentul_2_rezultat.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/segmentul_2_rezultat.bmp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/segmentul_3.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/segmentul_3.bmp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/segmentul_3_rezultat.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/segmentul_3_rezultat.bmp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/segmentul_4.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/segmentul_4.bmp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/segmentul_4_rezultat.bmp" beforeDir="false" afterPath="$PROJECT_DIR$/segmentul_4_rezultat.bmp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/packTest/rezultat.bmp" beforeDir="false" />
-    </list>
+    <list default="true" id="2ebfe1ea-dca2-4c17-8bc1-ba89aaf4d9ab" name="Changes" comment="java project" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -152,7 +141,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673803133278</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="java project">
+      <created>1673811209298</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1673811209298</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
